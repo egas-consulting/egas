@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="egas.com" resolutions="1x" timestamp="1589793950483">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="egas.com" resolutions="1x" timestamp="1589803827234">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4146350737" ref="index"/>
+    <file name="index.css" crc="4125435345" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,30 +13,6 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="woman_static.png" crc="3851753788" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="woman2.gif" crc="193473749" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="man_static.png" crc="3978407528" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="man 1.gif" crc="3797257038" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="man2_static.png" crc="423197658" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="man2.gif" crc="237951426" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="woman2_static.png" crc="329118119" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="woman_2.gif" crc="4041479384" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="website logo egas.png" crc="4169547949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -52,18 +28,30 @@
     <file name="pr_office.png" crc="4004978950" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ceo.gif" crc="3991642162" seo="true" ref="index">
+    <file name="cfo_2.png" crc="4108097253" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cfo.gif" crc="3811211455" seo="true" ref="index">
+    <file name="cfo_2.gif" crc="3954506379" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hr.gif" crc="104117855" seo="true" ref="index">
+    <file name="ceo_2.png" crc="427850870" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pr.gif" crc="4037050925" seo="true" ref="index">
+    <file name="ceo_2.gif" crc="156900894" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pr_2.png" crc="195311082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pr_3.gif" crc="4025610764" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr_2png.png" crc="453025569" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr_2.gif" crc="97051955" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="204544757" seo="true" mt="1589793673117" redirect="true"/>
+  <file name="index.html" crc="29472658" seo="true" mt="1589803826850" redirect="true"/>
 </manifest>

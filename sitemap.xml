@@ -20,17 +20,5 @@
     <image:image>
       <image:loc>http://egas.com/images/pr_office.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://egas.com/images/ceo.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://egas.com/images/cfo.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://egas.com/images/hr.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://egas.com/images/pr.gif</image:loc>
-    </image:image>
   </url>
 </urlset>
