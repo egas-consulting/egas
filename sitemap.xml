@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://egas.com/index.html</loc>
-    <lastmod>2020-05-14</lastmod>
+    <lastmod>2020-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://egas.com/images/front%20page%20picture.png</image:loc>
+      <image:loc>http://egas.com/images/website%20logo%20egas.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/cfo_office.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/hr_office.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/ceo_office.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/pr_office.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/ceo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/cfo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/hr.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://egas.com/images/pr.gif</image:loc>
     </image:image>
   </url>
 </urlset>
